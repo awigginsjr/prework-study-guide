@@ -2,18 +2,10 @@
 
 ## Description
 This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
-HTML
-The head element contains information about the webpage.
-The body element represents the visible content shown to the user.
-CSS
-A margin indicates how much space we want around the outside of an element.
-A padding indicates how much space we want around the content inside an element.
-Git
-git status: checks what branch we are currently on.
-git checkout -b branch-name: creates a new branch and switches to it.
-JavaScript
-A variable is a named container that allows us to store data in our code.
-Control flow is the order in which a computer executes code in a script
+For HTML, the head element contains information about the webpage and the body element represents the visible content shown to the user.
+CSS, A margin indicates how much space we want around the outside of an element, and padding indicates how much space we want around the content inside an element.
+Git, git status: checks what branch we are currently on, also git checkout -b branch-name: creates a new branch and switches to it.
+JavaScript variable is a named container that allows us to store data in our code. Control flow is the order in which a computer executes code in a script
 
 - My motivation was to learn HTML, CCS, Git and JavaScript.
 - I built this project for the preliminary skills and information need to begin the course.
